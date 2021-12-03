@@ -6,7 +6,7 @@ description: Mechatronics Engineer at <a href="https://www.mdp.com.pe/">MDP cons
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p>Lima, Lima, Peru</p>
 
