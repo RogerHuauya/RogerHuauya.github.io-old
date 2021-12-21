@@ -69,7 +69,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: 
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+ If you want to contact me quickly, please use LinkedIn if possible 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -78,8 +78,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: myblog  # your blog must have a name for it to show up in the nav bar
-blog_description: academics and personal experiences written
+blog_name: Roger's blog  # your blog must have a name for it to show up in the nav bar
+blog_description: academics and personal experiences written to last forever
 permalink: /blog/:year/:title/
 
 # Pagination
