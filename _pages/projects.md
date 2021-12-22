@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: academic and personal projects 
 nav: true
-display_categories: [work, academic, open source, fun]
+display_categories: [work, fun]
 horizontal: false
 ---
 <div class="projects">
