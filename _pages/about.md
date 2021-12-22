@@ -19,4 +19,6 @@ Hi, I'm Roger and I am a mechatronics. Currently I am working on MDP consulting 
 
 I completed my Bachelor of Science in mechatronics at the [National University of Engineering](https://www.uni.edu.pe/). I finished my major with a cumilative GPA of 15.874 and ranked on the top 5% (2/46). According to , my grade is equivalent to A+ in the international letter scale.
 
+During my undergraduate program, I spent almost three years in a research laboratory called LIIARPI (stands for Laboratory of artificial intelligence, robotics and image processing). During this time, I was part of three formative research projects funded by the university.
+
 In my leisure time, I usually like to walk or run alone. Sometimes I like to play videogames with close friends, specially Call of Duty: Warzone. 
