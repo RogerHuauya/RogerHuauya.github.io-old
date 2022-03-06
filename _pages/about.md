@@ -23,4 +23,6 @@ During my undergraduate program, I spent almost three years in a research labora
 
 As part of my commitment to my hemophilia community, I volunteer as a committee member in a non-profit organitation called ASPEH (Asociación peruana de hemophilia - Peruvian Association of hemophilia). I manage the official Facebook account of [ASPEH](https://www.facebook.com/AspehPeru) and I am in charge of posting about important events such as online events, related national issues and answering messages from our community. I am also supporting the [official website](https://hemofiliaperu.org/). I am part of a team in which develops plans to organize health seminars about important issues about hemophilia.
 
-In my leisure time, I usually like to walk or run alone. Sometimes I like to play videogames with close friends, specially Call of Duty: Warzone. 
+In my leisure time, I usually like to walk or run alone. Sometimes I like to play videogames with close friends, specially Call of Duty: Warzone :)
+
+**Resources** If you would like to know about me, here is my [CV](assets/pdf/CV.pdf) and [academic CV](assets/pdf/CV_academic.pdf)
